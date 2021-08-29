@@ -1,0 +1,8 @@
+*.o
+*.so
+*.a
+*.cobaltlog
+*.error
+*.out
+*.output
+test/hello*/data*
