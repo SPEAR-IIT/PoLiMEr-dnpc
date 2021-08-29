@@ -1,6 +1,7 @@
 **NOTE:** This is a modified version of a repository that already existed.
 - https://xgitlab.cels.anl.gov/open-source/PoLiMEr 
 - Ivana Marincic, Venkatram Vishwanath, and Henry Hoffmann. 2017. PoLiMEr: An Energy Monitoring and Power Limiting Interface for HPC Applications. In <i>Proceedings of the 5th International Workshop on Energy Efficient Supercomputing</i> (<i>E2SC'17</i>). Association for Computing Machinery, New York, NY, USA, Article 7, 1–8. DOI:https://doi.org/10.1145/3149412.3149419
+
 Everything below is by the original author.
 
 # PoLiMEr - **Po**wer **Li**miting & **M**onitoring of **E**negy
